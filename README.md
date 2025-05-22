@@ -6,5 +6,5 @@ WHO WROTE IT and WHO WROTE IT LOADER
 - The Alarm Manager
 - Job Scheduler
 
-SIMPLER ASYNC TASK
+SIMPLE ASYNC TASK
 - Async Task
