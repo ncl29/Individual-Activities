@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">WhoWroteIt</string>
+    <string name="instructions">Enter a Book Name to find out who wrote the book.</string>
+    <string name="button_text">Search Book</string>
+    <string name="input_hint">Book Title</string>
+    <string name="no_results">No Results Found</string>
+    <string name="loading">Loading...</string>
+    <string name="no_search_term">Please enter a search term</string>
+    <string name="no_network">Please check your network connection and try again.</string>
+    <string name="send_custom_broadcast">Send Custom Broadcast</string>
+    <string name="alarm_off">Alarm Off</string>
+    <string name="alarm_on">Alarm On</string>
+    <string name="stand_up_on">Stand Up ON</string>
+    <string name="stand_up_off">Stand Up OFF</string>
+    <string name="none">None</string>
+    <string name="any">Any</string>
+    <string name="wifi">Wifi</string>
+    <string name="network_type_required">Network Type Required:</string>
+    <string name="requires">Requires:</string>
+    <string name="device_idle">Device Idle</string>
+    <string name="override_deadline">Override Deadline: </string>
+    <string name="not_set">Not Set</string>
+</resources>

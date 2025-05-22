@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme -->
+    <style name="Base.Theme.WhoWroteIt" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary Colors -->
+        <item name="colorPrimary">@color/my_light_primary</item>
+        <item name="colorPrimaryVariant">@color/my_light_primary_variant</item>
+        <item name="colorSecondary">@color/my_light_secondary</item>
+
+        <!-- Background & Surface Colors -->
+        <item name="android:colorBackground">@color/my_light_background</item>
+        <item name="colorSurface">@color/my_light_surface</item>
+
+        <!-- Text Colors -->
+        <item name="android:textColorPrimary">@color/my_light_text_primary</item>
+        <item name="android:textColorSecondary">@color/my_light_text_secondary</item>
+    </style>
+
+    <style name="Theme.WhoWroteIt" parent="Base.Theme.WhoWroteIt" />
+</resources>
